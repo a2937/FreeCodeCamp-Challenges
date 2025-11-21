@@ -1,0 +1,14 @@
+{
+  "name": "January 4th (pizza size)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calcPizza.js",
+  
+  "scripts": {
+    "start": "node calcPizza.js",
+    "test": "node --test tests/"
+  },
+  "keywords": [],
+  "author": "= <=>",
+  "license": "ISC"
+}

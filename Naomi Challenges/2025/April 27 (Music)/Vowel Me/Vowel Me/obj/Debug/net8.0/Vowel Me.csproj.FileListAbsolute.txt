@@ -1,0 +1,14 @@
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\bin\Debug\net8.0\Vowel Me.exe
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\bin\Debug\net8.0\Vowel Me.deps.json
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\bin\Debug\net8.0\Vowel Me.runtimeconfig.json
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\bin\Debug\net8.0\Vowel Me.dll
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\bin\Debug\net8.0\Vowel Me.pdb
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\Vowel Me.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\Vowel Me.AssemblyInfoInputs.cache
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\Vowel Me.AssemblyInfo.cs
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\Vowel Me.csproj.CoreCompileInputs.cache
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\Vowel Me.dll
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\refint\Vowel Me.dll
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\Vowel Me.pdb
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\Vowel Me.genruntimeconfig.cache
+F:\FreeCode Challenge Problems\2025\April 27 (Music)\Vowel Me\Vowel Me\obj\Debug\net8.0\ref\Vowel Me.dll

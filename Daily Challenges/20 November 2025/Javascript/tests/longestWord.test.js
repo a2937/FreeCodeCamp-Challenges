@@ -22,7 +22,7 @@ describe("longestWord  function", () => {
     {
         assert.strictEqual(longestWord("Do Try This At Home."),"This"); 
     })
-    it('longestWord("This sentence... has commas, ellipses, and an exlamation point!") should return "exlamation"', () =>
+    it('longestWord("This sentence... has commas, ellipses, and an exclamation point!") should return "exclamation"', () =>
     {
         assert.strictEqual(longestWord("This sentence... has commas, ellipses, and an exlamation point!"),"exlamation"); 
     })

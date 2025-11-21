@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Denim School Girl",
+    "fileName": "denim.png",
+    "description": "A throwback to her earlier days.",
+    "alt": "Naomi wearing a denim school girl jacket, grey patterned skirt, and her hair in pigtails.",
+    "credits": {
+      "hair": "https://booth.pm/en/items/5383067",
+      "outfit": "https://booth.pm/en/items/5410631"
+    }
+  },
+  {
+    "name": "Dragon Queen",
+    "fileName": "dragon.png",
+    "description": "Her powers actually come from a pact with an eldritch being, but drawing on a draconic bloodline is still well within her domain.",
+    "alt": "Naomi wearing an orange dress with a red scaled skirt, winged ankle cuffs, and horns.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5391517"
+    }
+  },
+  {
+    "name": "Snowy Sweater",
+    "fileName": "snowy.png",
+    "description": "The pattern is cute, but the outfit isn't actually that warm.",
+    "alt": "Naomi wearing a blue sweater with a white snowflake pattern, a blue plaid miniskirt, and blue tights with a snowflake design.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5401790",
+      "leggings": "https://booth.pm/en/items/5401811",
+      "skirt": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1220/"
+    }
+  },
+  {
+    "name": "Company Jumpsuit",
+    "fileName": "lethal.png",
+    "description": "The most paranoid employee.",
+    "alt": "Naomi wearing the jumpsuit from Lethal Company.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5408086"
+    }
+  }
+]

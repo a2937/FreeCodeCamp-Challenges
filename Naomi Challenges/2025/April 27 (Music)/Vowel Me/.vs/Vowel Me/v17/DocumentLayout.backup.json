@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FreeCode Challenge Problems\\2025\\April 27 (Music)\\Vowel Me\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F25A2957-BC70-41F9-8839-BE8C0C770402}|Vowel Me\\Vowel Me.csproj|f:\\freecode challenge problems\\2025\\april 27 (music)\\vowel me\\vowel me\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25A2957-BC70-41F9-8839-BE8C0C770402}|Vowel Me\\Vowel Me.csproj|solutionrelative:vowel me\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FreeCode Challenge Problems\\2025\\April 27 (Music)\\Vowel Me\\Vowel Me\\Program.cs",
+              "RelativeDocumentMoniker": "Vowel Me\\Program.cs",
+              "ToolTip": "F:\\FreeCode Challenge Problems\\2025\\April 27 (Music)\\Vowel Me\\Vowel Me\\Program.cs*",
+              "RelativeToolTip": "Vowel Me\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:42:00.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
